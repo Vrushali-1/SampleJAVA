@@ -7,8 +7,9 @@ public class Main {
 	     
 	     for(int i=0;i<name.length;i++) {
 	    	 System.out.println("1st: "+name[i]);
+	    	 
 	     }
-
+	     System.out.println("Edited by Mayur");
 	}
 
 }
